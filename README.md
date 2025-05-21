@@ -1,4 +1,6 @@
-# ClarityGAN
+# ClarityGAN (Extension of HazeEraze)
+
+Developed in collaboration with [GR-Menon](https://github.com/GR-Menon)
 
 Image Dehazing using CycleGANs.  
 </br>
